@@ -173,7 +173,7 @@ main{
     color: var(--info-text-color);
 }
 
-informacoes .botoes{
+.informacoes .botoes{
     display: none;
 }
 
@@ -234,6 +234,7 @@ informacoes .botoes{
         font-size: 1.125rem;
     }
 
+    
     section.botoes {
         display: none;
     }
